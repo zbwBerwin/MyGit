@@ -1,1 +1,1 @@
-a new git program
+a new git program，another paogram add to commit.
